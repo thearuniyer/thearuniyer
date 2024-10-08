@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thearuniyer
-- 👀 I’m interested in Web Developement work Python(Django), NodeJS, React
-- 🌱 I’m currently learning Tensorflow and revising my basics on Machine Learning and AI in order ot implement third party APIs into new projects 
-- 💞️ I’m looking to collaborate on projects that work with APIs that use ML models
+- 👀 I’m a Big Data Engineer working in Pyspark, Hadooop and AWS
+- 🌱 I’m currently creating Data Pipelines for cleaning, organizing, transforming and storing terrabytes of information. 
 - 📫 You can reach me by sending me an email at ashank16@asu.edu
 
 <!---
